@@ -192,3 +192,18 @@
 2018-10-08 13:17:35 receive version message: /Satoshi:1.3.1/: version 70015, blocks=0, us=[::]:0, peer=0
 2018-10-08 13:17:35 receive version message: /Satoshi:1.3.1/: version 70015, blocks=0, us=[::]:0, peer=1
 2018-10-08 13:18:36 Adding fixed seed nodes as DNS doesn't seem to be available.
+2018-10-08 13:20:08 keypool added key 102, size=101
+2018-10-08 13:20:08 keypool reserve 2
+2018-10-08 13:20:08 keypool keep 2
+2018-10-08 13:21:48 connect() to 127.0.0.1:18002 failed after select(): Connection refused (111)
+2018-10-08 13:21:48 connect() to 127.0.0.1:18003 failed after select(): Connection refused (111)
+2018-10-08 13:22:02 tor: Thread interrupt
+2018-10-08 13:22:02 torcontrol thread exit
+2018-10-08 13:22:02 addcon thread exit
+2018-10-08 13:22:02 scheduler thread interrupt
+2018-10-08 13:22:02 opencon thread exit
+2018-10-08 13:22:02 Shutdown: In progress...
+2018-10-08 13:22:02 net thread exit
+2018-10-08 13:22:02 msghand thread exit
+2018-10-08 13:22:02 Dumped mempool: 2e-06s to copy, 0.006337s to dump
+2018-10-08 13:22:02 Shutdown: done

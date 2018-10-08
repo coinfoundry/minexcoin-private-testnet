@@ -191,3 +191,6 @@
 2018-10-08 13:17:35 dnsseed thread exit
 2018-10-08 13:17:35 receive version message: /Satoshi:1.3.1/: version 70015, blocks=0, us=[::]:0, peer=0
 2018-10-08 13:18:36 Adding fixed seed nodes as DNS doesn't seem to be available.
+2018-10-08 13:19:44 keypool added key 102, size=101
+2018-10-08 13:19:44 keypool reserve 2
+2018-10-08 13:19:44 keypool keep 2
